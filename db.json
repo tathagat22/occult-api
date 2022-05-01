@@ -22,12 +22,185 @@
         {
             "id" : 2,
             "name" : "Book of Occult 1",
-            "author" : "HEnry Cornelius Agrippa",
+            "author" : "Henry Cornelius Agrippa",
             "Language" : "English",
             "cover" : "https://lh3.googleusercontent.com/URHwSFfXCexQUSLF8qJO7R8pw4hVsIaOvgtrK8EbI4WoPNzyncKy8e8Tg7HakFQN6EG_GGjufMMetP1Tt6yOwo-jzjBg7Cs2CQhEe5hg3Nu2iCIFybapNUhJ3Dgum1ldVVBi6e3w=w2400",
             "link": "https://drive.google.com/file/d/1dsi_-lZXfVAbmOdJFHRIlz0o82jqO5U1/view?usp=sharing" ,
             "Tags": "Occult, Magic, Spirits"
             
+        },
+        {
+            "id" : 3,
+            "name" : "Book of Occult 2",
+            "author" : "Henry Cornelius Agrippa",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/t3l6AD0Ys1_o1ZVnoZPhys0ymI1SIxUwRneS4ImbuHJm8l7SIA9pwu0tCWEo9j2ibWtxxGOUc5zkKKkGdLncnIGNO9cERQopyk_tCs8TVbh85SDTaMcC5GMYIYcjDgsBkn6FnbQv=w2400",
+            "link": "https://drive.google.com/file/d/1tn4zzDVGDlisibUydzsXfzCRsHJLcQmI/view?usp=sharing" ,
+            "Tags": "Occult, Magic, Spirits"
+            
+        },
+        {
+            "id" : 4,
+            "name" : "Book of Occult 3",
+            "author" : "Henry Cornelius Agrippa",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/N7WgK64jHsKIkhW9v4wZPOMWWNt6YguzZNFrfj_DWELbWZ2nQYS8fNecoGFWbDTmFBBgcigRGDYDT5NRQbJ6BQwuXSLDpn_fCYC5OoUvjkyocnwXqT2aYodjlux7vsAzMaSiNh8B=w2400",
+            "link": "https://drive.google.com/file/d/1Xmx6vke2sSwmgOE15EhjNLjhuMH80cgD/view?usp=sharing" ,
+            "Tags": "Occult, Magic, Spirits"
+            
+        },
+        {
+            "id" : 5,
+            "name" : "An Enochian Setting of Wards",
+            "author" : "AL Billings",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/_SSEbHwkQDZncu5Tw1TlyLmIB2NQBcjYlQGVK5dpK_LKqznLvL26jM_sjmcUU2rIRcwk7TpnKAVoqI7QMHF6z_vKvcZjoDrp6SehbXM1TUWU6PzG7LhUmbSUgVWkqzBR4k0CDjgK=w2400",
+            "link": "https://drive.google.com/file/d/1X4EEJ6MwpN4wMZsSJ_5lNk4rhh2RXgBi/view?usp=sharing" ,
+            "Tags": "Enochian Magic, Wards, Spells"
+            
+        },
+        {
+            "id" : 6,
+            "name" : "The Book of Power",
+            "author" : "Idres Shah",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/GRuXxv6KMQ_4JsBuEuaSkBpHpfCLtxNQoNtYwSaMQJt0YH2A6d8rd_TrWdzoQoVY81JkuLNErfbfnq_oO1wwup4LMA6HEOrvZ3BNWZvBOyJHr4kLIFWAQRJ3hijhCp446lNaLmcI=w2400",
+            "link": "https://drive.google.com/file/d/15u52sVKU1H_1Lh8Wcmy2iedFaiOFOexS/view?usp=sharing" ,
+            "Tags": "Talisman, Alchemy, Rituals"
+            
+        },
+        {
+            "id" : 7,
+            "name" : "Grimoire of NOX UMBRA",
+            "author" : "Michael W. Ford",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/yEmBrsLD55y8IThVweQFZ0KHBqYci7AmYZhn4MjHe4iUKHy9NY7UTN4DQhS4hQHtqnfWbp1Ky5hZPbqaRc_KRjy767LhNZ-xNI2hfS2bInHbeC9B9OzBzs6NNN_s7kQvy5-BSpM6=w2400",
+            "link": "https://drive.google.com/file/d/1Z3VEZJ7M_knqGC79sjxM2Wj_u0n-PAZO/view?usp=sharing" ,
+            "Tags": "Vampyric Rituals, Invocations"
+            
+        },
+        {
+            "id" : 8,
+            "name" : "Shades of Algol - Sabbatic grimoire",
+            "author" : "Michael W. Ford",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/hkPBUjtfrfJXUuDwEJHpDZbH5lUyN9MdfT1zlyvhfc-xt_fMpkMUnZbyGFNReHxqDZf7bIbN59pWwhpJRLICkiu1uezh35PVM--HHGHBAmilPzVluK4i9rkOwMXl0u_Qg7W1UxUD=w2400",
+            "link": "https://drive.google.com/file/d/1U7ALP2PKUdDPxfzjGg1WGLOmBd8EbmnJ/view?usp=sharing" ,
+            "Tags": "Luciferian, Sabbatic, Grimoire, Rituals"
+            
+        },
+        {
+            "id" : 9,
+            "name" : "The Book of Cain",
+            "author" : "Michael W. Ford",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/pTQSPPD87u9BRkC7Bg43JAdHIqumPO0oAD3wEZp61mToGmxuncnjvDRhLZ_v1rL1ydSd_O0kwpFQJQc4lLgNJbvsjhB0SptonhqOfR8zWU9ZvIh6WMOd8E7L3fy-BBP87Ub4etfv=w2400",
+            "link": "https://drive.google.com/file/d/19n18pOO8SK8nQ-ZjToSL3BvKwFuofYPN/view?usp=sharing" ,
+            "Tags": "Invocation of Cain, Rituals"
+            
+        },
+        {
+            "id" : 10,
+            "name" : "The Black Raven",
+            "author" : "Doctor Johannes Faust",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/MrWax03fyu1eq2uz7WEE9vpAk0cv_VpGFEdFm4oGibL4EgU9H2f-SEb1om_v0dptGZFJ0s2tPhmLVmT3dLy6_zQIuPZeU_lU7Zkh2KVHcFym2qlUftCzM4Xl-3N6DS-dKOorG1sF=w2400",
+            "link": "https://drive.google.com/file/d/1K28_bmUquVhb2z_6GTG82y8qdNBtvBxx/view?usp=sharing" ,
+            "Tags": "Spirit Summoning, Commanding Spirits, rituals, invocations, spells"
+            
+        },
+        {
+            "id" : 11,
+            "name" : "Goetia Luciferian Edition",
+            "author" : "Michael W. Ford",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/XF5zCw8ZoimH14ytVcBjeXeAXoBjWuZke577wHCnmho1J5A8rEfHaacJ9lE4RFtGW4kDuV_C5zAn7RE7EIVGgmT5h0zC-Kz7vj3ciX4N4-1wawX71WjvLBInDi78Ubhh2bLKJ3_Q=w2400",
+            "link": "https://drive.google.com/file/d/1KSALFk1deYmYH6M6lWUx5DOpeXEqtM0K/view?usp=sharing" ,
+            "Tags": "Invocations of Lucifer, sigils, demons"
+            
+        },
+        {
+            "id" : 12,
+            "name" : "Grimoire of Turiel",
+            "author" : "Marius Malchus",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/5Y_V2-daSc4IBtoEngsTodm8zFR1dTY7OSTz75lKNo-ysTFCXFG_Z2lwQ3WIeVgP_QAQBJ7q_cnI98lwZyAOKEsPlDb-rKTHjqxsBtUKTGoXcwIbq6rnddDNAS_PhX9tmrgTKZ6e=w2400",
+            "link": "https://drive.google.com/file/d/1kGvIi24MTLKsBSh8DLTFW9TTfIlOlPNt/view?usp=sharing" ,
+            "Tags": "Sigils, Planet Invocation, Days Sigils"
+            
+        },
+        {
+            "id" : 13,
+            "name" : "Grimoirium Verum",
+            "author" : "Planglere Jesult Dominicane",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/8muLd_Z2KGXE7wrVylq5lLCHUQAE0mEKxpvGNu6zNJcEa39ejdTPlAHq3VGHHgedjteEULqGkDkZm_D8o5bzUPEdJJIZPlPKTZMs4QZDzqrcZ6w7HltgnMKbv9YEZ6LYciyo0soR=w2400",
+            "link": "https://drive.google.com/file/d/1awFzIDqaFwxzIcHTRL11D_ae_gZAF06m/view?usp=sharing" ,
+            "Tags": "Gold Silver Rituals, Invisibility Spell Ritual, Sigil"
+            
+        },
+        {
+            "id" : 14,
+            "name" : "Dogma Et Rituel De La Haute Magie Part-1",
+            "author" : "Eliphas Levi",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/-nJ5hSjuld03PK2-aNIoL5dSU0E80TkO-wffkgXFyK-KbuKkMTBl0pg6dCiL9hZB-bq9f1UEg2O4L1UOvy0ssOnVlbD5aYEz2m8TJcUnjM1xYuHmJ173G7Nl5FIq92aLJ_uSR-Jl=w2400",
+            "link": "https://drive.google.com/file/d/19x-kjpKGZycbpc5e2OkLMTEWVltD4X7N/view?usp=sharing" ,
+            "Tags": "Transmutations, Divination, Uniersal Medicines"
+            
+        },
+        {
+            "id" : 15,
+            "name" : "Dogma Et Rituel De La Haute Magie Part-2",
+            "author" : "Eliphas Levi",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/3KMPK3U5-3ioIWY16AeuDnkFzA4UpkOFKUATSpmC5Pm-jnkNTgV4Wiil0ouxsMiSCsUBtt_HWCqH1g4pDP55aUCEuA_Lq7sH88LEQhHPWyKUUhgR2Jc4FNoM1O1p7hjfyWXgZLRc=w2400",
+            "link": "https://drive.google.com/file/d/1BQGV4pCoV_hde_z7iXZM2bIolEzPYawR/view?usp=sharing" ,
+            "Tags": "Transmutations, Divination, Uniersal Medicines"
+            
+        },
+        {
+            "id" : 16,
+            "name" : "The Magic Ritual of Sanctum Ragnum",
+            "author" : "Eliphas Levi",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/bnZLy3aduS2N2l3smjpacN_XuYYTAk0LiPA2izDdmv21EjXoth8ediAJUMAh_IO2g4vTahOlJDz_VnIwVq8PHovQQBfw26kjx2kXKotI3B8u9q9b2tPxUMcgFRXURp0PPRgzqYm-=w2400",
+            "link": "https://drive.google.com/file/d/1ZxGAd6XUQNAg_ovfCoqnGZAiH-621b8h/view?usp=sharing" ,
+            "Tags": "Tarot card, Rituals"
+            
+        },
+        {
+            "id" : 17,
+            "name" : "Libellus Magicus",
+            "author" : "Eliphas Levi",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/_zPD08bWfMUHTE1YaLUCIRxlFGtSRch31BPsTF1FcSvo_T2FuZ8aKFLUWDpGVkdl9ahpwHWKyqrnNdu1zSr1IeeCSIyI-Dzqxya7QwlL43AOUwCnNWvk62oYg-nN7isObpmQjhlt=w2400",
+            "link": "https://drive.google.com/file/d/16M3ufBUO94BBEV7bwy9y67Tcpq8VnAyR/view?usp=sharing" ,
+            "Tags": "Spirits Conjuration, Powerfull Spirits"
+            
+        },
+        {
+            "id" : 18,
+            "name" : "Liber Chanokh Pictures",
+            "author" : "John Dee",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/g34XlO1jR9-_i1JI62YL4PKrb7LTCoiaTGl8i-iz57n4oHyUHMQZw113K2aWWQnYC3f1deltETCh5q-yx5dUQt3IlohWTr3EoO26ETaZdOYl0xnsPfk0rKJ4LkZSExvpcnY_BnU8=w2400",
+            "link": "https://drive.google.com/file/d/1b8DmC0x0kByAqE8E8EPV0jjhoMZLk1so/view?usp=sharing" ,
+            "Tags": "The Holy Table, Seal of God, The Great Table"
+            
+        },
+        {
+            "id" : 19,
+            "name" : "Luciferian Sorcery",
+            "author" : "Michael W. Ford",
+            "Language" : "English",
+            "cover" : "https://lh3.googleusercontent.com/A8dCIREQ-_W8oTDwTe4U-ozd5J5W5fN8NIwrkli1Wvsp7dc94FuRH6wK5JmKsZWzjH8zXNuooHEJVoBuoBNuhwK1-Ica4aXNRW2F2qL5ckTqTNmJALyL3m-FtRG-Yc9oRRlnu-Uf=w2400",
+            "link": "https://drive.google.com/file/d/19kvXLghwm6BR7SnJ7SbnctwBMNLxGIDo/view?usp=sharing" ,
+            "Tags": "Lucifer sigils, Lucifer Magic"
+            
         }
+        
+        
+        
     ]
 }
