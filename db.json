@@ -5,7 +5,7 @@
             "name" : "Dictionnaire Infernal",
             "author" : "Jacques Collin de Plancy",
             "Language" : "French",
-            "cover" : "http://picoolio.net/images/2022/04/28/di.jpg", 
+            "cover" : "https://photos.app.goo.gl/DFZeFrJQBkr1JC3Z8", 
             "link" : "https://drive.google.com/file/d/1UWv42XY-nAB41L4dQSmQoHEznp4xsZSj/view?usp=sharing",
             "Tags": "Angel, Demons, Dictionary"
         },
@@ -14,10 +14,20 @@
             "name" : "Ancient Egyption Magic",
             "author" : "Bob Brier",
             "Language" : "English",
-            "cover" : "http://picoolio.net/images/2022/04/28/aem.jpg",
+            "cover" : "https://photos.app.goo.gl/N8mfvkYYVi6fKuKb7",
             "link": "https://drive.google.com/file/d/1AQpzSI9wvtIjMlYRE7h5FbiBYTM1Ym-j/view?usp=sharing" ,
             "Tags": "Hieroglyphs, Magicians, Mummification, Amulets"
             
-        }
+        },
+        {
+            "id" : 2,
+            "name" : "Book of Occult 1",
+            "author" : "HEnry Cornelius Agrippa",
+            "Language" : "English",
+            "cover" : "https://photos.app.goo.gl/w9WQo43mCWt9WDoTA",
+            "link": "https://drive.google.com/file/d/1dsi_-lZXfVAbmOdJFHRIlz0o82jqO5U1/view?usp=sharing" ,
+            "Tags": "Occult, Magic, Spirits"
+            
+        },
     ]
 }
